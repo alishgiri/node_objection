@@ -1,0 +1,14 @@
+{
+  "name": "node_objection",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/Alishgiri/node_objection.git",
+  "author": "Alish Giri <32293725+Alishgiri@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.95.2",
+    "objection": "^2.2.14",
+    "pg": "^8.5.1"
+  }
+}
